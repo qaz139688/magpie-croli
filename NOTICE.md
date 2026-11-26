@@ -1,5 +1,11 @@
 # NOTICE
 
+## 本项目的来源
+
+- 原始项目：[MYCF711/magpie-croli](https://github.com/MYCF711/magpie-croli)（MIT License）
+- 本仓库：[qaz139688/magpie-croli](https://github.com/qaz139688/magpie-croli)，基于原项目二次修改并维护。
+- 二改内容见 [CHANGELOG.md](./CHANGELOG.md) 的 0.1.8 一节。
+
 本项目的部分**协议原语与工程模式**提炼自以下以 MIT 许可发布的项目。实现已改写为厂商无关的通用版本：
 没有复制厂商域名、签名算法、登录页选择器、模型目录或额度表。
 
