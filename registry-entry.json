@@ -1,0 +1,11 @@
+{
+  "package": "magpie-croli",
+  "name": "Croli 免费模型 Croli Free Models",
+  "providers": [
+    "croli"
+  ],
+  "summary": {
+    "en": "Four Croli models with native API-key passthrough, daily check-in/tasks, and token-safe official invite links.",
+    "zh": "四模型原生 API Key 直通，支持每日签到/任务与不泄露 token 的官方邀请链接。"
+  }
+}
